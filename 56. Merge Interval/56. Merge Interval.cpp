@@ -1,8 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end());
-
+        std::sort(intervals.begin(), intervals.end(), [](auto a, auto b)->bool{ 
+                return a[0] < b[0]; 
+            });
         vector<vector<int>> output;
         output.push_back(intervals[0]);    //初始化输出列表
         for(int i = 1; i < intervals.size(); i++){
