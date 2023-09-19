@@ -20,7 +20,7 @@ Monotonic Cueue: 239.
 
 Hash Table: 1, 3, 49, 128, 438.
 
-Two Pointers: 11, 15, 42, 160, 283.
+Two Pointers: 11, 15, 42, 160, 234, 283.
 
 Sorting: 56.
 
