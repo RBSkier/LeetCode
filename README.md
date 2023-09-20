@@ -30,4 +30,6 @@ Dynamic Programming: 53.
 
 Prefix Sum: 238, 560.
 
-Rotate = Double flip: 48, 189
+Double Flip: 48, 189.
+
+Graph Shortest Path: 743.
