@@ -12,7 +12,7 @@
 
 Array: 41.
 
-Binary Search: 240.
+Binary Search: 4, 240.
 
 Matrix: 48, 54, 73.
 
@@ -20,7 +20,9 @@ Monotonic Cueue: 239.
 
 Hash Table: 1, 3, 49, 128, 438.
 
-Two Pointers: 11, 15, 42, 160, 234, 283.
+Linked List: 21.
+
+Two Pointers: 11, 15, 42, 141, 142, 160, 234, 283.
 
 Sorting: 56.
 
