@@ -20,7 +20,7 @@ Monotonic Cueue: 239.
 
 Hash Table: 1, 3, 49, 128, 438.
 
-Linked List: 21.
+Linked List: 21, 24.
 
 Two Pointers: 11, 15, 42, 141, 142, 160, 234, 283.
 
