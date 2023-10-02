@@ -2,7 +2,7 @@
 
 后续更新解题都会提供C++和Java两个版本。
 
-文件前缀为#剑指offer的是剑指offer系列解题，暂时未归类该系列的题型。
+文件前缀为#剑指offer的是剑指offer系列解题。
 
 其余练习命名前缀的变好对应Leetcode题库的编号。
 
@@ -20,7 +20,7 @@ Monotonic Cueue: 239.
 
 Hash Table: 1, 3, 49, 128, 438.
 
-Linked List: 21, 24.
+Linked List: 2, 19, 21, 24, 25, 206.
 
 Two Pointers: 11, 15, 42, 141, 142, 160, 234, 283.
 
