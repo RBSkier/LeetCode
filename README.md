@@ -2,9 +2,9 @@
 
 后续更新解题都会提供C++和Java两个版本。
 
-文件前缀为#剑指offer的是剑指offer系列解题。
+前缀为"#剑指offer"的是剑指offer系列解题。
 
-其余练习命名前缀的变好对应Leetcode题库的编号。
+文件命名前缀对应Leetcode题库的题目编号。
 
 每日持续更新...
 
@@ -12,15 +12,15 @@
 
 Array: 41.
 
-Binary Search: 4, 240.
+Binary Search: 4, 94, 101, 104, 226, 240, 543.
 
 Matrix: 48, 54, 73.
 
-Monotonic Cueue: 239.
+Monotonic Queue: 239.
 
-Hash Table: 1, 3, 49, 128, 438.
+Hash Table: 1, 3, 49, 128, 146, 438.
 
-Linked List: 2, 19, 21, 24, 25, 206.
+Linked List: 2, 19, 21, 23, 24, 25, 138, 146, 148, 206.
 
 Two Pointers: 11, 15, 42, 141, 142, 160, 234, 283.
 
@@ -35,3 +35,5 @@ Prefix Sum: 238, 560.
 Double Flip: 48, 189.
 
 Graph Shortest Path: 743.
+
+Merge Sort: 23, 148.
