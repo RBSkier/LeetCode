@@ -39,3 +39,5 @@ Double Flip: 48, 189.
 Graph Shortest Path: 743.
 
 Merge Sort: 23, 148.
+
+Dynamic Programming: 1143.
