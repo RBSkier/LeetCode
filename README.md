@@ -16,6 +16,8 @@ Binary Search: 4, 94, 101, 102, 104, 108, 144, 226, 240, 543.
 
 BFS: 102.
 
+DFS: 230.
+
 Matrix: 48, 54, 73.
 
 Monotonic Queue: 239.
@@ -25,8 +27,6 @@ Hash Table: 1, 3, 49, 128, 146, 438.
 Linked List: 2, 19, 21, 23, 24, 25, 138, 146, 148, 206.
 
 Two Pointers: 11, 15, 42, 141, 142, 160, 234, 283.
-
-Sorting: 56.
 
 Sliding Window: 3, 76, 239, 438.
 
@@ -38,6 +38,10 @@ Double Flip: 48, 189.
 
 Graph Shortest Path: 743.
 
+Dynamic Programming: 1143.
+
+Sorting: 56.
+
 Merge Sort: 23, 148.
 
-Dynamic Programming: 1143.
+Radix Sort: 164.
