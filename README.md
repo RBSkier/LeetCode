@@ -12,12 +12,6 @@
 
 Array: 41.
 
-Binary Search: 4, 94, 101, 102, 104, 108, 144, 226, 240, 543.
-
-BFS: 102.
-
-DFS: 230.
-
 Matrix: 48, 54, 73.
 
 Monotonic Queue: 239.
@@ -30,18 +24,28 @@ Two Pointers: 11, 15, 42, 141, 142, 160, 234, 283.
 
 Sliding Window: 3, 76, 239, 438.
 
-Dynamic Programming: 53.
-
 Prefix Sum: 238, 560.
 
 Double Flip: 48, 189.
 
 Graph Shortest Path: 743.
 
-Dynamic Programming: 1143.
+Dynamic Programming: 53, 1143.
+
 
 Sorting: 56.
 
 Merge Sort: 23, 148.
 
 Radix Sort: 164.
+
+
+Binary Search: 4, 94, 101, 102, 104, 108, 144, 226, 240, 543.
+
+BFS: 102.
+
+DFS: 230.
+
+postorder traversal: 114.
+
+Precursor node: 114.
