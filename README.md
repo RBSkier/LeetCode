@@ -30,7 +30,7 @@ Double Flip: 48, 189.
 
 Graph Shortest Path: 743.
 
-Dynamic Programming: 53, 1143.
+Dynamic Programming: 53, 124, 1143.
 
 Sorting: 56.
 
@@ -38,11 +38,11 @@ Merge Sort: 23, 148.
 
 Radix Sort: 164.
 
-Binary Search: 4, 94, 101, 102, 104, 105, 108, 144, 226, 236, 240, 543.
+Binary Search: 4, 94, 101, 102, 104, 105, 108, 124, 144, 226, 236, 240, 543.
 
 BFS: 102.
 
-DFS: 230.
+DFS: 124, 230.
 
 postorder traversal: 114.
 
